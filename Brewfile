@@ -47,6 +47,7 @@ cask "sourcetree"
 cask "rectangle"
 cask "readdle-spark"
 cask "bitwarden"
+cask "obsidian"
 
 # Mac App Store apps
 mas "LINE", id: 539883307
