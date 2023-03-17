@@ -1,11 +1,10 @@
 # Taps
 tap "homebrew/bundle"
 tap "homebrew/cask"
-tap "homebrew/cask-fonts"
-tap "homebrew/core"
-tap "homebrew/cask-drivers"
-tap "homebrew/services"
-tap "devopsdays/tap"
+# tap "homebrew/cask-fonts"
+# tap "homebrew/core"
+# tap "homebrew/cask-drivers"
+# tap "homebrew/services"
 tap "heroku/brew"
 
 # Brew CLI apps
@@ -27,6 +26,7 @@ brew "heroku/brew/heroku"
 brew "mas"
 brew "pyenv"
 brew "bitwarden-cli"
+brew "zsh"
 
 # App casks
 cask "authy"
