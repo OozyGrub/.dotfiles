@@ -14,7 +14,6 @@ brew "go"
 brew "helm"
 brew "imagemagick"
 brew "kubernetes-cli"
-brew "neovim"
 brew "node"
 brew "netlify-cli", link: false
 brew "tldr"
@@ -26,6 +25,8 @@ brew "zsh-syntax-highlighting"
 brew "zsh-autosuggestions"
 brew "heroku/brew/heroku"
 brew "mas"
+brew "pyenv"
+brew "bitwarden-cli"
 
 # App casks
 cask "authy"
@@ -45,6 +46,7 @@ cask "mysqlworkbench"
 cask "sourcetree"
 cask "rectangle"
 cask "readdle-spark"
+cask "bitwarden"
 
 # Mac App Store apps
 mas "LINE", id: 539883307
