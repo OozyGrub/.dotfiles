@@ -22,4 +22,5 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 
 ## Source
 
-https://github.com/eieioxyz/Beyond-Dotfiles-in-100-Seconds
+- https://github.com/eieioxyz/Beyond-Dotfiles-in-100-Seconds
+- https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css

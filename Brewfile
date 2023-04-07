@@ -27,6 +27,13 @@ brew "mas"
 brew "pyenv"
 brew "bitwarden-cli"
 brew "zsh"
+brew "tree"
+brew "htop"
+brew "speedtest-cli"
+brew "wifi-password"
+brew "bufbuild/buf/buf"
+brew "pip"
+brew "nvm"
 
 # App casks
 cask "authy"
@@ -48,8 +55,13 @@ cask "rectangle"
 cask "readdle-spark"
 cask "bitwarden"
 cask "obsidian"
+cask "nosqlbooster-for-mongodb"
+cask "android-studio"
+cask "wire"
+cask "numi"
 
 # Mac App Store apps
 mas "LINE", id: 539883307
 mas "Session - Pomodor Focus Timer", id: 1521432881
 mas "Resize Master", id: 1025306797
+mas "Xcode", id: 497799835
