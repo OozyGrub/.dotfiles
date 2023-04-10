@@ -6,6 +6,7 @@ tap "homebrew/cask"
 # tap "homebrew/cask-drivers"
 # tap "homebrew/services"
 tap "heroku/brew"
+tap "fwartner/tap"
 
 # Brew CLI apps
 brew "gh"
@@ -34,6 +35,7 @@ brew "wifi-password"
 brew "bufbuild/buf/buf"
 brew "pip"
 brew "nvm"
+brew "fwartner/tap/mac-cleanup"
 
 # App casks
 cask "authy"
