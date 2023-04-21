@@ -33,7 +33,6 @@ brew "htop"
 brew "speedtest-cli"
 brew "wifi-password"
 brew "bufbuild/buf/buf"
-brew "pip"
 brew "nvm"
 brew "fwartner/tap/mac-cleanup"
 
