@@ -62,7 +62,7 @@ cask "wire"
 cask "numi"
 
 # Mac App Store apps
-mas "LINE", id: 539883307
+mas "LINE", id: 443904275
 mas "Session - Pomodor Focus Timer", id: 1521432881
 mas "Resize Master", id: 1025306797
 mas "Xcode", id: 497799835
